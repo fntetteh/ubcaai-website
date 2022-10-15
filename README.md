@@ -10,11 +10,13 @@
 
 <div align="center">
   <a href="https://github.com/fntetteh/ubcaai">
-    <img src="img/aai-current.png" alt="Logo" width="150" height="150">
+    <img src="img/logo-dark.png" alt="Logo" width="150" height="150">
   </a>
-  <p align="center">
-    <a href="http://www.ubcaai.org/">ubcaai.org</a>
+<p align="center">
+    <a href="https://ubcaai.netlify.app/">View Demo</a>
+    <a href="https://github.com/fntetteh/ubcaai">GitHub Project Link</a> 
   </p>
+  
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -37,13 +39,10 @@ The UBC Africa Awareness Initiative (AAI) is a student-run organization, started
 
 <div align="center">
   <a href="https://github.com/fntetteh/ubcaai">
-    <img src="img/logo-dark.png" alt="Logo" >
+    <img src="img/aai-current.png" >
   </a>
   <p align="center">
-    An awesome README template for the UBC AAI Website!
-    <br />
-    <a href="https://ubcaai.netlify.app/">View Demo</a>
-    <a href="https://github.com/fntetteh/ubcaai">GitHub Project Link</a> 
+    <a href="http://www.ubcaai.org/">ubcaai.org</a>
   </p>
 </div>
 
