@@ -48,6 +48,8 @@ The UBC Africa Awareness Initiative (AAI) is a student-run organization, started
 
 My proposal is to redesign the website dynamically with more interactive features. Students would be able to easily use and navigate the proposed website because it is intuitive and interactive.
 
+[![Netlify Deploymonet Status](https://api.netlify.com/api/v1/badges/dd8f6d5b-3b4b-4a09-ae22-1d2c3eb5cf83/deploy-status)](https://app.netlify.com/sites/ubcaai/deploys)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Built With
